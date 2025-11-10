@@ -1,4 +1,4 @@
-# GEC_MAR
+# GEC-MAR
 Github repository for "A General Approach for Calibration Weighting under Missing at Random" submitted to JRSS-B. This repository contains R scripts and data for the simulation study (Section 7.1) and the real data analysis (Section 7.2) in our paper.
 
 ## Contents
